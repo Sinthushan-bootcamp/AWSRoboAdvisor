@@ -12,8 +12,3 @@ Using AWS to create a robo advisor and to investigate Cryptocurrency
 * [Core notebook](ClusteringCrypto/crypto_clustering.IPYNB)
 * [Challange notebook modeified to work with Amazon SageMaker](ClusteringCrypto/crypto_clustering_sm.IPYNB)
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" >
-    <source type="video/mp4" src="RoboAdvisor/BotTest.mp4"></source>
-  </video>
-</figure>
